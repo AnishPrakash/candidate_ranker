@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+artifacts/*.bin
+artifacts/*.parquet
+artifacts/*.xgb
+artifacts/*.pkl

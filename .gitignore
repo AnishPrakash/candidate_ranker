@@ -220,3 +220,4 @@ artifacts/*.bin
 artifacts/*.parquet
 artifacts/*.xgb
 artifacts/*.pkl
+candidates.jsonl

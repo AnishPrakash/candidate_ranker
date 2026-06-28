@@ -73,7 +73,9 @@ def run_ranking(candidates_file, output_file):
     final_scores = ltr_scores + 0.0001 * candidates_to_score['github_score'].values
     
     # Pair IDs with scores and sort
-    results = list(zip(filtered_cids, final_scores))
+    # Pair IDs with scores, round them to 4 decimals FIRST, then sort
+    results = [(cid, round(float(score), 4)) for cid, score in zip(filtered_cids, final_scores)]
+    # Sort by rounded score descending (-x[1]), then by candidate_id ascending (x[0])
     results.sort(key=lambda x: (-x[1], x[0]))
     top_100 = results[:100]
     

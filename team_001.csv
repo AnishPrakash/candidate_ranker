@@ -1,101 +1,101 @@
 candidate_id,rank,score,reasoning
-CAND_0086022,1,4.2775,Strong fit: 5.3 yrs experience (squarely in JD target band); product-company experience (Sarvam AI).
-CAND_0077337,2,3.6025,Strong fit: 7.0 yrs experience (squarely in JD target band); product-company experience (Glance).
-CAND_0002025,3,3.2873,Strong fit: 5.9 yrs experience (squarely in JD target band); product-company experience (Aganitha).
-CAND_0039754,4,2.8953,"Strong fit: product-company experience (Observe.AI); demonstrated embedding, retrieval, ranking in career history."
-CAND_0011687,5,2.8658,Strong fit: 7.8 yrs experience (squarely in JD target band); product-company experience (Niramai).
-CAND_0046064,6,2.8655,Strong fit: 8.9 yrs experience (squarely in JD target band); product-company experience (Verloop.io).
-CAND_0081852,7,2.8055,Strong fit: 5.9 yrs experience (squarely in JD target band); product-company experience (Mad Street Den).
-CAND_0052328,8,2.6959,Strong fit: 6.5 yrs experience (squarely in JD target band); product-company experience (Observe.AI).
-CAND_0010257,9,2.6403,"Strong fit: 6.5 yrs experience (squarely in JD target band); demonstrated ranking, embedding, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0018499,10,2.5071,"Strong fit: 7.2 yrs experience (squarely in JD target band); demonstrated faiss, embedding, retrieval in career history."
-CAND_0029367,11,2.4782,Strong fit: 5.7 yrs experience (squarely in JD target band); product-company experience (Rephrase.ai). Concern(s): 90-day notice period.
-CAND_0071974,12,2.3874,Strong fit: 7.8 yrs experience (squarely in JD target band); product-company experience (Mad Street Den).
-CAND_0041669,13,2.3844,Strong fit: 8.0 yrs experience (squarely in JD target band); product-company experience (Mad Street Den).
-CAND_0081846,14,2.3822,"Strong fit: 6.7 yrs experience (squarely in JD target band); demonstrated faiss, embedding, retrieval in career history."
-CAND_0020877,15,2.1515,"Strong fit: 5.1 yrs experience (squarely in JD target band); demonstrated faiss, retrieval, sentence-transformer in career history. Concern(s): low engagement (66% response rate, last active 2026-04-03)."
-CAND_0007009,16,2.1283,Strong fit: 7.9 yrs experience (squarely in JD target band); product-company experience (Wysa).
-CAND_0055905,17,1.9462,"Strong fit: 8.1 yrs experience (squarely in JD target band); product-company experience (Rephrase.ai). Concern(s): based outside India (London, UK)."
-CAND_0051292,18,1.6607,"Strong fit: 5.2 yrs experience (squarely in JD target band); demonstrated ranking, faiss, retrieval in career history."
-CAND_0055992,19,1.6369,"Strong fit: product-company experience (Aganitha); demonstrated embedding, pinecone, faiss in career history. Concern(s): based outside India (Sydney, Australia)."
-CAND_0008425,20,1.6357,"Strong fit: 7.8 yrs experience (squarely in JD target band); demonstrated vector, embedding, retrieval in career history. Concern(s): 90-day notice period."
-CAND_0006557,21,1.4965,"Good fit: 7.9 yrs experience (squarely in JD target band); demonstrated ranking, embedding, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0044855,22,1.4312,"Good fit: 6.6 yrs experience (squarely in JD target band); product-company experience (Verloop.io). Concern(s): low engagement (57% response rate, last active 2026-04-24)."
-CAND_0026532,23,1.4298,"Good fit: product-company experience (Mad Street Den); demonstrated faiss, retrieval, sentence-transformer in career history. Concern(s): 90-day notice period."
-CAND_0068811,24,1.359,Good fit: 8.0 yrs experience (squarely in JD target band); product-company experience (Yellow.ai).
-CAND_0089552,25,1.2671,"Good fit: 6.0 yrs experience (squarely in JD target band); product-company experience (Mad Street Den). Concern(s): low engagement (49% response rate, last active 2026-04-27); 120-day notice period."
-CAND_0005260,26,1.2633,Good fit: 5.2 yrs experience (squarely in JD target band); product-company experience (Yellow.ai).
-CAND_0032807,27,1.2368,"Good fit: demonstrated embedding, pinecone in career history. Concern(s): low engagement (51% response rate, last active 2026-03-22); 90-day notice period."
-CAND_0086151,28,1.2188,"Good fit: 7.7 yrs experience (squarely in JD target band); product-company experience (Wysa). Concern(s): low engagement (52% response rate, last active 2026-03-23); 120-day notice period."
-CAND_0075439,29,1.1319,"Good fit: demonstrated embedding, pinecone, ranking in career history. Concern(s): low engagement (56% response rate, last active 2026-05-07)."
-CAND_0065195,30,-2.3402,"Good fit: 5.1 yrs experience (squarely in JD target band); demonstrated embedding, pinecone in career history."
-CAND_0074735,31,-2.3614,Good fit: 5.5 yrs experience (squarely in JD target band); product-company experience (Rephrase.ai). Concern(s): 90-day notice period.
-CAND_0081053,32,-2.3624,Good fit: 5.4 yrs experience (squarely in JD target band); product-company experience (Glance). Concern(s): 90-day notice period.
-CAND_0053591,33,-2.3626,"Good fit: 5.3 yrs experience (squarely in JD target band); demonstrated ranking, embedding, pinecone in career history. Concern(s): based outside India (Toronto, Canada)."
-CAND_0009691,34,-2.3836,"Good fit: 6.2 yrs experience (squarely in JD target band); demonstrated embedding, ranking, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0083307,35,-2.4268,Good fit: 7.8 yrs experience (squarely in JD target band); product-company experience (Saarthi.ai). Concern(s): 120-day notice period.
-CAND_0088025,36,-2.548,Good fit: 8.6 yrs experience (squarely in JD target band); product-company experience (Yellow.ai). Concern(s): 90-day notice period.
-CAND_0028793,37,-2.5684,"Good fit: 7.2 yrs experience (squarely in JD target band); demonstrated faiss, retrieval, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0053695,38,-2.595,Good fit: 5.8 yrs experience (squarely in JD target band); product-company experience (Niramai).
-CAND_0093912,39,-2.654,"Good fit: 5.3 yrs experience (squarely in JD target band); demonstrated ranking, faiss, retrieval in career history."
-CAND_0061265,40,-2.6542,Good fit: 6.6 yrs experience (squarely in JD target band); product-company experience (Observe.AI). Concern(s): 120-day notice period.
-CAND_0077285,41,-2.6546,"Good fit: 5.5 yrs experience (squarely in JD target band); demonstrated ranking, embedding, pinecone in career history."
-CAND_0052682,42,-2.6549,Good fit: 6.6 yrs experience (squarely in JD target band); product-company experience (Aganitha).
-CAND_0024147,43,-2.7175,Good fit: 5.9 yrs experience (squarely in JD target band); demonstrated ranking in career history.
-CAND_0005649,44,-2.732,Good fit: 7.4 yrs experience (squarely in JD target band); product-company experience (Sarvam AI). Concern(s): 90-day notice period.
-CAND_0014909,45,-2.7479,Good fit: product-company experience (Niramai); demonstrated ranking in career history. Concern(s): 120-day notice period.
-CAND_0020708,46,-2.75,"Good fit: demonstrated faiss, retrieval, sentence-transformer in career history."
-CAND_0069248,47,-2.7504,Good fit: 5.4 yrs experience (squarely in JD target band); product-company experience (Sarvam AI). Concern(s): 120-day notice period.
-CAND_0057369,48,-2.7508,Good fit: product-company experience (Saarthi.ai). Concern(s): 120-day notice period.
-CAND_0023215,49,-2.7773,"Good fit: product-company experience (Verloop.io); demonstrated ranking in career history. Concern(s): based outside India (Austin, USA)."
-CAND_0016163,50,-2.816,Good fit: 6.7 yrs experience (squarely in JD target band); product-company experience (Verloop.io). Concern(s): 120-day notice period.
-CAND_0050876,51,-2.8169,Marginal fit: 6.0 yrs experience (squarely in JD target band); product-company experience (Yellow.ai). Concern(s): 90-day notice period.
-CAND_0061339,52,-2.8169,"Marginal fit: product-company experience (Rephrase.ai); demonstrated embedding, ranking, sentence-transformer in career history. Concern(s): 90-day notice period."
-CAND_0096142,53,-2.8382,"Marginal fit: 5.0 yrs experience (squarely in JD target band); demonstrated ranking, embedding, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0083852,54,-2.8392,Marginal fit: 6.0 yrs experience (squarely in JD target band); product-company experience (Mad Street Den). Concern(s): 90-day notice period.
-CAND_0018722,55,-2.858,"Marginal fit: 6.6 yrs experience (squarely in JD target band); product-company experience (Saarthi.ai). Concern(s): 90-day notice period; based outside India (Toronto, Canada)."
-CAND_0048375,56,-2.8593,Marginal fit: product-company experience (Saarthi.ai).
-CAND_0017090,57,-2.8601,Marginal fit: 5.5 yrs experience (squarely in JD target band).
-CAND_0098846,58,-2.8601,"Marginal fit: 7.6 yrs experience (squarely in JD target band); demonstrated ranking, embedding, pinecone in career history."
-CAND_0043381,59,-2.8604,Marginal fit: demonstrated ranking in career history.
-CAND_0076163,60,-2.8892,Marginal fit: 6.9 yrs experience (squarely in JD target band); demonstrated ranking in career history.
-CAND_0035879,61,-2.8893,Marginal fit: product-company experience (Krutrim); demonstrated ranking in career history. Concern(s): 120-day notice period.
-CAND_0038206,62,-2.8895,Marginal fit: demonstrated ranking in career history. Concern(s): 120-day notice period.
-CAND_0080534,63,-2.8896,Marginal fit: demonstrated ranking in career history; highly responsive (response rate 91%).
-CAND_0065786,64,-2.8906,Marginal fit: product-company experience (Mad Street Den); demonstrated ranking in career history.
-CAND_0066999,65,-2.9096,Marginal fit: 5.9 yrs experience (squarely in JD target band); demonstrated ranking in career history.
-CAND_0014440,66,-2.9099,Marginal fit: 6.4 yrs experience (squarely in JD target band); demonstrated ranking in career history.
-CAND_0005509,67,-2.963,Marginal fit: 6.0 yrs experience (squarely in JD target band); product-company experience (Haptik).
-CAND_0009307,68,-2.9634,Marginal fit: Data Engineer.
-CAND_0042029,69,-2.9744,"Marginal fit: 6.5 yrs experience (squarely in JD target band); product-company experience (Observe.AI). Concern(s): low engagement (67% response rate, last active 2026-04-13)."
-CAND_0039383,70,-2.9836,"Marginal fit: 7.1 yrs experience (squarely in JD target band); demonstrated ranking, faiss, retrieval in career history. Concern(s): 90-day notice period."
-CAND_0026716,71,-3.0017,Marginal fit: 5.6 yrs experience (squarely in JD target band); product-company experience (Haptik).
-CAND_0095207,72,-3.0224,Marginal fit: demonstrated ranking in career history. Concern(s): 120-day notice period.
-CAND_0046353,73,-3.0231,Marginal fit: 6.4 yrs experience (squarely in JD target band). Concern(s): 120-day notice period.
-CAND_0091890,74,-3.0447,Marginal fit: product-company experience (Verloop.io); demonstrated ranking in career history.
-CAND_0099806,75,-3.0735,Marginal fit: product-company experience (Mad Street Den); demonstrated ranking in career history.
-CAND_0051615,76,-3.0845,Marginal fit: product-company experience (Krutrim); demonstrated ranking in career history.
-CAND_0036184,77,-3.095,"Marginal fit: 6.0 yrs experience (squarely in JD target band); demonstrated faiss, retrieval, sentence-transformer in career history."
-CAND_0046525,78,-3.0956,"Marginal fit: 6.1 yrs experience (squarely in JD target band); demonstrated embedding, faiss, retrieval in career history."
-CAND_0042506,79,-3.1141,"Marginal fit: product-company experience (Verloop.io); demonstrated embedding, pinecone, ranking in career history."
-CAND_0064904,80,-3.1146,"Marginal fit: demonstrated embedding, ranking, sentence-transformer in career history. Concern(s): 90-day notice period."
-CAND_0017960,81,-3.1191,Marginal fit: 7.7 yrs experience (squarely in JD target band); product-company experience (Wysa).
-CAND_0014063,82,-3.1256,Marginal fit: 5.4 yrs experience (squarely in JD target band); product-company experience (Sarvam AI).
-CAND_0081958,83,-3.1267,Marginal fit: 5.2 yrs experience (squarely in JD target band).
-CAND_0054123,84,-3.1384,"Marginal fit: demonstrated embedding, ranking, sentence-transformer in career history. Concern(s): low engagement (87% response rate, last active 2026-05-08)."
-CAND_0047721,85,-3.2653,"Marginal fit: 7.0 yrs experience (squarely in JD target band); product-company experience (Observe.AI). Concern(s): low engagement (49% response rate, last active 2026-04-05); 90-day notice period."
-CAND_0037944,86,-3.266,"Marginal fit: demonstrated ranking, embedding, pinecone in career history. Concern(s): low engagement (42% response rate, last active 2026-03-22)."
-CAND_0006850,87,-3.2722,"Marginal fit: product-company experience (Yellow.ai); demonstrated ranking in career history. Concern(s): low engagement (46% response rate, last active 2026-03-24); 120-day notice period."
-CAND_0036520,88,-3.2722,"Marginal fit: product-company experience (Glance); demonstrated ranking in career history. Concern(s): low engagement (39% response rate, last active 2026-04-20)."
-CAND_0018549,89,-3.2782,"Marginal fit: 6.8 yrs experience (squarely in JD target band); demonstrated ranking, embedding, sentence-transformer in career history."
-CAND_0041610,90,-3.2786,Marginal fit: 6.7 yrs experience (squarely in JD target band); product-company experience (Observe.AI).
-CAND_0076904,91,-3.2838,"Marginal fit: product-company experience (Mad Street Den); demonstrated ranking, faiss, retrieval in career history. Concern(s): 90-day notice period; based outside India (London, UK)."
-CAND_0027801,92,-3.3207,"Marginal fit: 7.4 yrs experience (squarely in JD target band); demonstrated faiss, retrieval, sentence-transformer in career history. Concern(s): 120-day notice period."
-CAND_0044222,93,-3.3242,"Marginal fit: 7.7 yrs experience (squarely in JD target band); demonstrated faiss, retrieval, sentence-transformer in career history."
-CAND_0049978,94,-3.3811,"Marginal fit: 6.6 yrs experience (squarely in JD target band); product-company experience (Sarvam AI). Concern(s): low engagement (71% response rate, last active 2026-02-19)."
-CAND_0032515,95,-3.3813,"Marginal fit: 5.1 yrs experience (squarely in JD target band); demonstrated ranking in career history. Concern(s): low engagement (54% response rate, last active 2026-05-14); based outside India (Seattle, USA)."
-CAND_0084819,96,-3.3858,"Marginal fit: demonstrated embedding, pinecone, ranking in career history. Concern(s): 120-day notice period."
-CAND_0074225,97,-3.3859,"Marginal fit: product-company experience (Mad Street Den); demonstrated ranking, embedding, pinecone in career history. Concern(s): 120-day notice period."
-CAND_0040887,98,-3.3879,"Marginal fit: demonstrated faiss, retrieval, sentence-transformer in career history. Concern(s): based outside India (Toronto, Canada)."
-CAND_0079387,99,-3.4061,"Marginal fit: 6.9 yrs experience (squarely in JD target band); demonstrated embedding, ranking, sentence-transformer in career history."
-CAND_0040117,100,-3.4073,"Marginal fit: 6.5 yrs experience (squarely in JD target band); demonstrated embedding, ranking, sentence-transformer in career history."
+CAND_0086022,1,4.2775,Strong fit: platform-verified Vector Search score (93/100); high recruiter demand (53 saves in 30d).
+CAND_0077337,2,3.6025,Strong fit: high recruiter demand (32 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0002025,3,3.2873,Strong fit: high recruiter demand (22 saves in 30d); actively job-hunting (17 applications in 30d).
+CAND_0039754,4,2.8953,Strong fit: platform-verified Fine-tuning LLMs score (96/100); high recruiter demand (51 saves in 30d).
+CAND_0011687,5,2.8658,Strong fit: high recruiter demand (27 saves in 30d); actively job-hunting (16 applications in 30d).
+CAND_0046064,6,2.8655,Strong fit: high recruiter demand (25 saves in 30d); title directly matches JD seniority (Senior NLP Engineer).
+CAND_0081852,7,2.8055,Strong fit: high recruiter demand (25 saves in 30d); actively job-hunting (18 applications in 30d).
+CAND_0052328,8,2.6959,Strong fit: platform-verified LoRA score (85/100); high recruiter demand (31 saves in 30d).
+CAND_0010257,9,2.6403,Strong fit: platform-verified OpenSearch score (90/100); high recruiter demand (35 saves in 30d). Concern(s): 120-day notice period.
+CAND_0018499,10,2.5071,Strong fit: platform-verified Deep Learning score (94/100); high recruiter demand (16 saves in 30d).
+CAND_0029367,11,2.4782,Strong fit: platform-verified Haystack score (90/100); strong recruiter interest (7 saves in 30d). Concern(s): 90-day notice period.
+CAND_0071974,12,2.3874,Strong fit: platform-verified LoRA score (87/100); high recruiter demand (50 saves in 30d).
+CAND_0041669,13,2.3844,Strong fit: platform-verified FAISS score (84/100); high recruiter demand (37 saves in 30d).
+CAND_0081846,14,2.3822,Strong fit: high recruiter demand (62 saves in 30d); excellent interview follow-through (94% completion rate).
+CAND_0020877,15,2.1515,"Strong fit: platform-verified YOLO score (89/100); high recruiter demand (19 saves in 30d). Concern(s): low engagement (66% response rate, last active 2026-04-03)."
+CAND_0007009,16,2.1283,Strong fit: strong recruiter interest (5 saves in 30d); actively job-hunting (13 applications in 30d).
+CAND_0055905,17,1.9462,"Strong fit: platform-verified Elasticsearch score (83/100); high recruiter demand (13 saves in 30d). Concern(s): based outside India (London, UK)."
+CAND_0051292,18,1.6607,Strong fit: strong recruiter interest (9 saves in 30d); actively job-hunting (19 applications in 30d).
+CAND_0055992,19,1.6369,"Strong fit: platform-verified RAG score (87/100); high recruiter demand (57 saves in 30d). Concern(s): based outside India (Sydney, Australia)."
+CAND_0008425,20,1.6357,Strong fit: high recruiter demand (55 saves in 30d); actively job-hunting (10 applications in 30d). Concern(s): 90-day notice period.
+CAND_0006557,21,1.4965,Good fit: high recruiter demand (53 saves in 30d); high offer acceptance rate (88%) — serious candidate. Concern(s): 120-day notice period.
+CAND_0044855,22,1.4312,"Good fit: high recruiter demand (43 saves in 30d); excellent interview follow-through (90% completion rate). Concern(s): low engagement (57% response rate, last active 2026-04-24)."
+CAND_0026532,23,1.4298,Good fit: platform-verified TTS score (91/100); high recruiter demand (42 saves in 30d). Concern(s): 90-day notice period.
+CAND_0068811,24,1.359,"Good fit: actively job-hunting (6 applications in 30d); demonstrated embedding, ranking, sentence-transformer in career history."
+CAND_0089552,25,1.2671,"Good fit: platform-verified TensorFlow score (89/100); high recruiter demand (50 saves in 30d). Concern(s): low engagement (49% response rate, last active 2026-04-27); 120-day notice period."
+CAND_0005260,26,1.2633,Good fit: platform-verified Prompt Engineering score (81/100); high recruiter demand (11 saves in 30d).
+CAND_0032807,27,1.2368,"Good fit: platform-verified OpenSearch score (89/100); high recruiter demand (50 saves in 30d). Concern(s): low engagement (51% response rate, last active 2026-03-22); 90-day notice period."
+CAND_0086151,28,1.2188,"Good fit: platform-verified Recommendation Systems score (84/100); high recruiter demand (55 saves in 30d). Concern(s): low engagement (52% response rate, last active 2026-03-23); 120-day notice period."
+CAND_0075439,29,1.1319,"Good fit: platform-verified Learning to Rank score (85/100); high recruiter demand (42 saves in 30d). Concern(s): low engagement (56% response rate, last active 2026-05-07)."
+CAND_0065195,30,-2.3402,Marginal fit: high recruiter demand (13 saves in 30d); excellent interview follow-through (91% completion rate).
+CAND_0074735,31,-2.3614,Marginal fit: high recruiter demand (31 saves in 30d); high offer acceptance rate (80%) — serious candidate. Concern(s): 90-day notice period.
+CAND_0081053,32,-2.3624,Marginal fit: platform-verified QLoRA score (89/100); high recruiter demand (40 saves in 30d). Concern(s): 90-day notice period.
+CAND_0053591,33,-2.3626,"Marginal fit: platform-verified LangChain score (90/100); high recruiter demand (40 saves in 30d). Concern(s): based outside India (Toronto, Canada)."
+CAND_0009691,34,-2.3836,Marginal fit: platform-verified LoRA score (82/100); strong recruiter interest (7 saves in 30d). Concern(s): 120-day notice period.
+CAND_0083307,35,-2.4268,Marginal fit: high recruiter demand (28 saves in 30d); actively job-hunting (22 applications in 30d). Concern(s): 120-day notice period.
+CAND_0088025,36,-2.548,Marginal fit: platform-verified Pinecone score (94/100); high recruiter demand (19 saves in 30d). Concern(s): 90-day notice period.
+CAND_0028793,37,-2.5684,Marginal fit: platform-verified Embeddings score (89/100); high recruiter demand (43 saves in 30d). Concern(s): 120-day notice period.
+CAND_0053695,38,-2.595,Marginal fit: high recruiter demand (34 saves in 30d); actively job-hunting (15 applications in 30d).
+CAND_0093912,39,-2.654,Marginal fit: high recruiter demand (56 saves in 30d); excellent interview follow-through (96% completion rate).
+CAND_0061265,40,-2.6542,Marginal fit: platform-verified Qdrant score (85/100); high recruiter demand (24 saves in 30d). Concern(s): 120-day notice period.
+CAND_0077285,41,-2.6546,Marginal fit: high recruiter demand (65 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0052682,42,-2.6549,Marginal fit: high recruiter demand (16 saves in 30d); high offer acceptance rate (85%) — serious candidate.
+CAND_0024147,43,-2.7175,Marginal fit: high recruiter demand (31 saves in 30d); demonstrated ranking in career history.
+CAND_0005649,44,-2.732,Marginal fit: high recruiter demand (26 saves in 30d); high offer acceptance rate (82%) — serious candidate. Concern(s): 90-day notice period.
+CAND_0014909,45,-2.7479,Marginal fit: platform-verified Python score (85/100); high recruiter demand (29 saves in 30d). Concern(s): 120-day notice period.
+CAND_0020708,46,-2.75,Marginal fit: high recruiter demand (52 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0069248,47,-2.7504,Marginal fit: platform-verified BentoML score (87/100); high recruiter demand (17 saves in 30d). Concern(s): 120-day notice period.
+CAND_0057369,48,-2.7508,Marginal fit: high recruiter demand (27 saves in 30d); actively job-hunting (11 applications in 30d). Concern(s): 120-day notice period.
+CAND_0023215,49,-2.7773,"Marginal fit: high recruiter demand (31 saves in 30d); excellent interview follow-through (93% completion rate). Concern(s): based outside India (Austin, USA)."
+CAND_0016163,50,-2.816,Marginal fit: platform-verified Time Series score (89/100); high recruiter demand (13 saves in 30d). Concern(s): 120-day notice period.
+CAND_0050876,51,-2.8169,Marginal fit: platform-verified FAISS score (81/100); excellent interview follow-through (97% completion rate). Concern(s): 90-day notice period.
+CAND_0061339,52,-2.8169,Marginal fit: strong recruiter interest (9 saves in 30d); actively job-hunting (8 applications in 30d). Concern(s): 90-day notice period.
+CAND_0096142,53,-2.8382,Marginal fit: platform-verified LoRA score (92/100); high recruiter demand (18 saves in 30d). Concern(s): 120-day notice period.
+CAND_0083852,54,-2.8392,Marginal fit: high recruiter demand (24 saves in 30d); actively job-hunting (10 applications in 30d). Concern(s): 90-day notice period.
+CAND_0018722,55,-2.858,"Marginal fit: high recruiter demand (16 saves in 30d); excellent interview follow-through (91% completion rate). Concern(s): 90-day notice period; based outside India (Toronto, Canada)."
+CAND_0048375,56,-2.8593,Marginal fit: high recruiter demand (26 saves in 30d); actively job-hunting (14 applications in 30d).
+CAND_0017090,57,-2.8601,Marginal fit: high recruiter demand (18 saves in 30d); actively job-hunting (5 applications in 30d).
+CAND_0098846,58,-2.8601,Marginal fit: high recruiter demand (13 saves in 30d); actively job-hunting (13 applications in 30d).
+CAND_0043381,59,-2.8604,Marginal fit: high recruiter demand (38 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0076163,60,-2.8892,Marginal fit: platform-verified BM25 score (92/100); high recruiter demand (62 saves in 30d).
+CAND_0035879,61,-2.8893,Marginal fit: high recruiter demand (37 saves in 30d); demonstrated ranking in career history. Concern(s): 120-day notice period.
+CAND_0038206,62,-2.8895,Marginal fit: high recruiter demand (38 saves in 30d); excellent interview follow-through (100% completion rate). Concern(s): 120-day notice period.
+CAND_0080534,63,-2.8896,Marginal fit: high recruiter demand (24 saves in 30d); demonstrated ranking in career history.
+CAND_0065786,64,-2.8906,Marginal fit: high recruiter demand (32 saves in 30d); excellent interview follow-through (95% completion rate).
+CAND_0066999,65,-2.9096,Marginal fit: platform-verified Pinecone score (90/100); high recruiter demand (29 saves in 30d).
+CAND_0014440,66,-2.9099,Marginal fit: high recruiter demand (33 saves in 30d); demonstrated ranking in career history.
+CAND_0005509,67,-2.963,Marginal fit: high recruiter demand (29 saves in 30d); high offer acceptance rate (85%) — serious candidate.
+CAND_0009307,68,-2.9634,Marginal fit: high recruiter demand (12 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0042029,69,-2.9744,"Marginal fit: platform-verified YOLO score (83/100); high recruiter demand (16 saves in 30d). Concern(s): low engagement (67% response rate, last active 2026-04-13)."
+CAND_0039383,70,-2.9836,Marginal fit: platform-verified Hugging Face Transformers score (86/100); high recruiter demand (34 saves in 30d). Concern(s): 90-day notice period.
+CAND_0026716,71,-3.0017,Marginal fit: high offer acceptance rate (82%) — serious candidate; actively job-hunting (14 applications in 30d).
+CAND_0095207,72,-3.0224,Marginal fit: platform-verified Recommendation Systems score (83/100); strong recruiter interest (5 saves in 30d). Concern(s): 120-day notice period.
+CAND_0046353,73,-3.0231,Marginal fit: 6.4 yrs experience (squarely in JD target band); strong GitHub activity score (77/100). Concern(s): 120-day notice period.
+CAND_0091890,74,-3.0447,Marginal fit: high recruiter demand (43 saves in 30d); actively job-hunting (9 applications in 30d).
+CAND_0099806,75,-3.0735,Marginal fit: strong recruiter interest (9 saves in 30d); demonstrated ranking in career history.
+CAND_0051615,76,-3.0845,Marginal fit: high recruiter demand (42 saves in 30d); actively job-hunting (7 applications in 30d).
+CAND_0036184,77,-3.095,Marginal fit: platform-verified GANs score (87/100); high recruiter demand (30 saves in 30d).
+CAND_0046525,78,-3.0956,Marginal fit: platform-verified LangChain score (96/100); high recruiter demand (38 saves in 30d).
+CAND_0042506,79,-3.1141,Marginal fit: platform-verified OpenCV score (84/100); high recruiter demand (49 saves in 30d).
+CAND_0064904,80,-3.1146,Marginal fit: platform-verified Forecasting score (82/100); high recruiter demand (39 saves in 30d). Concern(s): 90-day notice period.
+CAND_0017960,81,-3.1191,Marginal fit: high recruiter demand (43 saves in 30d); actively job-hunting (6 applications in 30d).
+CAND_0014063,82,-3.1256,Marginal fit: high recruiter demand (18 saves in 30d); actively job-hunting (5 applications in 30d). [Note: notice 45d; active 2026-04-02]
+CAND_0081958,83,-3.1267,Marginal fit: excellent interview follow-through (94% completion rate); actively job-hunting (7 applications in 30d).
+CAND_0054123,84,-3.1384,"Marginal fit: platform-verified Python score (92/100); high recruiter demand (11 saves in 30d). Concern(s): low engagement (87% response rate, last active 2026-05-08)."
+CAND_0047721,85,-3.2653,"Marginal fit: platform-verified Information Retrieval score (88/100); high recruiter demand (56 saves in 30d). Concern(s): low engagement (49% response rate, last active 2026-04-05); 90-day notice period."
+CAND_0037944,86,-3.266,"Marginal fit: platform-verified Vector Search score (92/100); high recruiter demand (17 saves in 30d). Concern(s): low engagement (42% response rate, last active 2026-03-22)."
+CAND_0006850,87,-3.2722,"Marginal fit: high recruiter demand (42 saves in 30d); actively job-hunting (6 applications in 30d). Concern(s): low engagement (46% response rate, last active 2026-03-24); 120-day notice period."
+CAND_0036520,88,-3.2722,"Marginal fit: high recruiter demand (24 saves in 30d); actively job-hunting (5 applications in 30d). Concern(s): low engagement (39% response rate, last active 2026-04-20)."
+CAND_0018549,89,-3.2782,Marginal fit: platform-verified Elasticsearch score (90/100); high recruiter demand (15 saves in 30d).
+CAND_0041610,90,-3.2786,Marginal fit: high recruiter demand (18 saves in 30d); high offer acceptance rate (80%) — serious candidate.
+CAND_0076904,91,-3.2838,"Marginal fit: high recruiter demand (65 saves in 30d); actively job-hunting (14 applications in 30d). Concern(s): 90-day notice period; based outside India (London, UK)."
+CAND_0027801,92,-3.3207,Marginal fit: platform-verified FAISS score (82/100); high recruiter demand (65 saves in 30d). Concern(s): 120-day notice period.
+CAND_0044222,93,-3.3242,Marginal fit: platform-verified LlamaIndex score (85/100); high recruiter demand (54 saves in 30d).
+CAND_0049978,94,-3.3811,"Marginal fit: high recruiter demand (32 saves in 30d); actively job-hunting (16 applications in 30d). Concern(s): low engagement (71% response rate, last active 2026-02-19)."
+CAND_0032515,95,-3.3813,"Marginal fit: high recruiter demand (40 saves in 30d); actively job-hunting (8 applications in 30d). Concern(s): low engagement (54% response rate, last active 2026-05-14); based outside India (Seattle, USA)."
+CAND_0084819,96,-3.3858,Marginal fit: platform-verified Recommendation Systems score (89/100); high recruiter demand (50 saves in 30d). Concern(s): 120-day notice period.
+CAND_0074225,97,-3.3859,Marginal fit: platform-verified Semantic Search score (89/100); high recruiter demand (53 saves in 30d). Concern(s): 120-day notice period.
+CAND_0040887,98,-3.3879,"Marginal fit: platform-verified Reinforcement Learning score (86/100); high recruiter demand (50 saves in 30d). Concern(s): based outside India (Toronto, Canada)."
+CAND_0079387,99,-3.4061,Marginal fit: platform-verified Sentence Transformers score (86/100); high recruiter demand (22 saves in 30d).
+CAND_0040117,100,-3.4073,Marginal fit: high recruiter demand (28 saves in 30d); actively job-hunting (7 applications in 30d).

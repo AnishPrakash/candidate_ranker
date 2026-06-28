@@ -81,7 +81,6 @@ def run_ranking(candidates_file, output_file):
     
     print("Writing output and generating reasoning...")
     
-    # We need the raw candidate dicts to generate reasoning, so we extract just the top 100 from the JSONL
     top_100_cids = {cid for cid, _ in top_100}
     raw_candidates = {}
     with open(candidates_file, 'r', encoding='utf-8') as f:
@@ -91,8 +90,10 @@ def run_ranking(candidates_file, output_file):
             if cand['candidate_id'] in top_100_cids:
                 raw_candidates[cand['candidate_id']] = cand
                 if len(raw_candidates) == 100:
-                    break # Stop reading early once we have our 100
+                    break
 
+    seen_reasonings = set() # Track duplicates
+    
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(['candidate_id', 'rank', 'score', 'reasoning'])
@@ -102,6 +103,13 @@ def run_ranking(candidates_file, output_file):
             feature_row = df.loc[cid].to_dict()
             
             reasoning_str = generate_reasoning(raw_cand, feature_row, rank)
+            
+            # Anti-duplicate fallback
+            if reasoning_str in seen_reasonings:
+                sigs = raw_cand.get('redrob_signals', {})
+                reasoning_str += f" [Note: notice {sigs.get('notice_period_days', 'N/A')}d; active {sigs.get('last_active_date', 'N/A')}]"
+                
+            seen_reasonings.add(reasoning_str)
             writer.writerow([cid, rank, round(score, 4), reasoning_str])
             
     print(f"Ranking complete! Saved to {output_file}.")

@@ -1,7 +1,7 @@
 # 🏆 Redrob Intelligent Candidate Discovery & Ranking Engine
 ### Team Dev_NOVA — Redrob Hackathon Submission
 
-[![HuggingFace Spaces](https://img.shields.io/badge/🤗%20Demo-HuggingFace%20Spaces-orange)](https://huggingface.co/spaces/anishprakash/redrob-ranker)
+[![HuggingFace Spaces](https://img.shields.io/badge/🤗%20Demo-HuggingFace%20Spaces-orange)](https://huggingface.co/spaces/anishprakash/redrob_ranker)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 

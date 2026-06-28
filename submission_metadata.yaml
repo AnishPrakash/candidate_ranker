@@ -20,7 +20,7 @@ team_members:
 github_repo: "https://github.com/AnishPrakash/candidate_ranker"
 # Must be reachable. If private, grant organizer access at Stage 3.
 
-sandbox_link: "https://huggingface.co/spaces/anishprakash/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/anishprakash/redrob_ranker"
 # Update this with your actual HuggingFace Spaces URL after deployment.
 
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./Dev_NOVA.csv"

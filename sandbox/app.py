@@ -205,11 +205,12 @@ else:
         col3.metric("Lowest Score",      f"{df['score'].min():.4f}")
         col4.metric("Honeypot Filter",   "✅ Active")
 
-        if len(df) < 100:
-            st.info(
-                f"ℹ️ {len(df)} candidates ranked from uploaded pool of {len(df)}.  \n"
-                "The full 100K run produces exactly 100 ranked outputs."
-            )
+        st.info(
+            "ℹ️ **About the output count:** The ranking pool is the pre-built FAISS index "
+            "(all 100,000 candidates). The uploaded file is used for reasoning generation only. "
+            "Output is always 100 rows regardless of upload size — "
+            "this is by design for the competition format."
+        )
 
         # --- Table ---
         st.dataframe(

@@ -74,7 +74,7 @@ def run_ranking(candidates_file, output_file):
     
     # Pair IDs with scores and sort
     results = list(zip(filtered_cids, final_scores))
-    results.sort(key=lambda x: x[1], reverse=True)
+    results.sort(key=lambda x: (-x[1], x[0]))
     top_100 = results[:100]
     
     print("Writing output and generating reasoning...")

@@ -5,6 +5,8 @@ import faiss
 import pickle
 import xgboost as xgb
 import csv
+import json
+from src.reasoner import generate_reasoning
 from sentence_transformers import SentenceTransformer
 
 # We will implement this in Phase 8. For now, a placeholder.
@@ -75,13 +77,32 @@ def run_ranking(candidates_file, output_file):
     results.sort(key=lambda x: x[1], reverse=True)
     top_100 = results[:100]
     
-    print("Writing output...")
+    print("Writing output and generating reasoning...")
+    
+    # We need the raw candidate dicts to generate reasoning, so we extract just the top 100 from the JSONL
+    top_100_cids = {cid for cid, _ in top_100}
+    raw_candidates = {}
+    with open(candidates_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            if not line.strip(): continue
+            cand = json.loads(line)
+            if cand['candidate_id'] in top_100_cids:
+                raw_candidates[cand['candidate_id']] = cand
+                if len(raw_candidates) == 100:
+                    break # Stop reading early once we have our 100
+
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(['candidate_id', 'rank', 'score', 'reasoning'])
+        
         for rank, (cid, score) in enumerate(top_100, start=1):
-            reasoning = generate_reasoning_placeholder(cid, score)
-            writer.writerow([cid, rank, round(score, 4), reasoning])
+            raw_cand = raw_candidates.get(cid, {'profile': {}, 'redrob_signals': {}})
+            feature_row = df.loc[cid].to_dict()
+            
+            reasoning_str = generate_reasoning(raw_cand, feature_row, rank)
+            writer.writerow([cid, rank, round(score, 4), reasoning_str])
+            
+    print(f"Ranking complete! Saved to {output_file}.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
